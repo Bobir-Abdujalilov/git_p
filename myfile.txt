@@ -1,2 +1,6 @@
 this is my first file in my git tracked file.
 second change
+Agenda today:
+1. collaborating with GitHub (cloude based sourse code hosting)
+pwd
+ 
