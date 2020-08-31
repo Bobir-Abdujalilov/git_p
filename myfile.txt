@@ -20,4 +20,6 @@ Git collabration with GitHub
 - git push 
 - git set upstream origin master
 
-Changes from my PC before getting GitHub changes
+
+- Changes from my PC before getting GitHub changes
+- changes from git hub
