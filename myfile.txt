@@ -1,5 +1,4 @@
-this is my first file in my git tracked file.
-second change
+Git introduction:
 Agenda today:
 1. collaborating with GitHub (cloude based sourse code hosting)
 https://github.com/Bobir-Abdujalilov/git_p.git
@@ -17,3 +16,6 @@ git branch -M master
 git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+Git collabration with GitHub 
+- git push 
+- git set upstream origin master
