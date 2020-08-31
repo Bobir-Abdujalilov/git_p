@@ -19,3 +19,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 Git collabration with GitHub 
 - git push 
 - git set upstream origin master
+
+Changes from my PC before getting GitHub changes
